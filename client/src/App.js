@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     getData();
-  }, [data])
+  }, [])
 
   return (
     <div className="App">
